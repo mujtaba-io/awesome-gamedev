@@ -373,6 +373,7 @@ Must see
 * [Designer Notes](http://www.designer-notes.com/)
 * [Emanuele Feronato's Blog](http://www.emanueleferonato.com/)
 * [Extraguy](http://www.extraguy.com/)
+* [GameIdea](https://gameidea.org) - Game development tutorials & breakdowns
 * [Gamasutra](http://www.gamasutra.com/)
 * [Game Development on StackExchange](http://gamedev.stackexchange.com/)
 * [GameDev](http://www.gamedev.net/page/index.html)
